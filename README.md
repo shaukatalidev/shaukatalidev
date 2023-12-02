@@ -8,6 +8,9 @@ I'm currently a third-year undergraduate student at IIT Kharagpur with a deep-se
 
 I'm on a continuous learning journey and currently focusing on enhancing my skills in DevOps practices. The intersection of development and operations fascinates me, and I'm excited about streamlining the software development lifecycle.
 
+<!-- # 💫 About Me:
+
+🌍 I'm based in Kharagpur, West Bengal<br>🖥️ See my portfolio at https://tejasambhore.github.io/<br>✉️ You can contact me at tejasam2020@gmail.com<br>🧠 I'm learning DevOps<br>⚡ I'm Batman -->
 ---
 
 ## 🌐 Socials:
@@ -37,11 +40,9 @@ Environments/Platforms
 
 # 📈 My GitHub Stats:
 
-![Mridul's GitHub stats](https://github-readme-stats.vercel.app/api?username=shau8122&hide=contribs&count_private=true&show_icons=true&theme=radical)  
 <a href="http://www.github.com/shau8122"><img src="https://github-readme-stats.vercel.app/api?username=shau8122&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="shau8122's GitHub stats" /></a>
 <a href="http://www.github.com/shau8122"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shau8122&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="https://github.com/shau8122" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shau8122&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shau8122&theme=radical&hide=jupyter%20notebook&langs_count=6&layout=compact)
 
 
 ---
