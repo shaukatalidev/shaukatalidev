@@ -2,15 +2,12 @@
 
 ## Developer
 
-I'm currently a third-year undergraduate student at IIT Kharagpur with a deep-seated passion for full-stack development. I thrive on transforming ideas into functional and user-friendly applications. In addition to my expertise in the MERN stack, I am actively delving into the realm of DevOps.
+I'm a final-year undergraduate at IIT Kharagpur with a focus on generative AI. My background in full-stack development and recent work with the FastAPI stack and DevOps fuel my passion for building innovative AI models and applications.
 
 ## 🌱 Learning
 
-I'm on a continuous learning journey and currently focusing on enhancing my skills in DevOps practices. The intersection of development and operations fascinates me, and I'm excited about streamlining the software development lifecycle.
+I'm on a continuous learning journey, currently focused on advancing my skills in generative AI. I'm fascinated by the potential of AI to create and innovate, and I'm excited to contribute to this transformative field.
 
-<!-- # 💫 About Me:
-
-🌍 I'm based in Kharagpur, West Bengal<br>🖥️ See my portfolio at https://tejasambhore.github.io/<br>✉️ You can contact me at tejasam2020@gmail.com<br>🧠 I'm learning DevOps<br>⚡ I'm Batman -->
 ---
 
 ## 🌐 Socials:
@@ -26,12 +23,26 @@ Languages
 
 
 Libraries/Frameworks  
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React logo" width="50" height="50" /> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Pandas logo" width="50" height="50" /> &nbsp;  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express logo" width="50" height="50" /> &nbsp;  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="MUI logo" width="50" height="50" /> &nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="MUI logo" width="50" height="50" /> &nbsp;   <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap logo" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React logo" width="50" height="50" /> &nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js logo" width="50" height="50" /> &nbsp;  
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express logo" width="50" height="50" /> &nbsp;  
+<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="MUI logo" width="50" height="50" /> &nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS logo" width="50" height="50" /> &nbsp;   
+<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap logo" width="50" height="50" /> &nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript logo" width="50" height="50" /> &nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL logo" width="50" height="50" />
+
 
 Software/Tools  
- <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB logo" width="50" height="50" /> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git logo" width="50" height="50" /> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker logo" width="50" height="50" /> &nbsp; 
- <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.Js logo" width="50" height="50" /> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm logo" width="50" height="50" /> &nbsp;  <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS logo" width="50" height="50" /> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB logo" width="50" height="50" /> &nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git logo" width="50" height="50" /> &nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker logo" width="50" height="50" /> &nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js logo" width="50" height="50" /> &nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm logo" width="50" height="50" /> &nbsp;  
+<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS logo" width="50" height="50" /> &nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI logo" width="50" height="50" /> &nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="Redis logo" width="50" height="50" /> &nbsp; 
+<img src="https://github.com/hwchase17/langchain/blob/master/logo.png" alt="LangChain logo" width="50" height="50" />
 
 Environments/Platforms  
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu logo" width="50" height="50" /> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code logo" width="50" height="50" /> &nbsp; 
