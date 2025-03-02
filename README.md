@@ -12,7 +12,7 @@ I'm on a continuous learning journey, currently focused on advancing my skills i
 
 ## 🌐 Socials:
 
-[![GitHub followers](https://img.shields.io/github/followers/shau8122?style=social)](https://github.com/shau8122) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shau8122/) &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shau8122@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/shaukatali-dev?style=social)](https://github.com/shaukatali-dev) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaukatali-dev/) &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shau8122@gmail.com)
 
 ---
 
@@ -35,9 +35,9 @@ Environments/Platforms
 
 # 📈 My GitHub Stats:
 
-<a href="http://www.github.com/shau8122"><img src="https://github-readme-stats.vercel.app/api?username=shau8122&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="shau8122's GitHub stats" /></a>
-<a href="http://www.github.com/shau8122"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shau8122&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="https://github.com/shau8122" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shau8122&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/shaukatali-dev"><img src="https://github-readme-stats.vercel.app/api?username=shaukatali-dev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="shaukatali-dev's GitHub stats" /></a>
+<a href="http://www.github.com/shaukatali-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shaukatali-dev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/shaukatali-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaukatali-dev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 ---
