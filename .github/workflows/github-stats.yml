@@ -1,0 +1,26 @@
+name: Generate Stats Card
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Stats Card
+        env:
+          GH_TOKEN: ${{ secrets.PAT_GITHUB }}
+        run: |
+          curl -o github-stats.svg "https://github-readme-stats.vercel.app/api?username=shaukatalidev&count_private=true&show_icons=true&theme=dark&token=${{ secrets.PAT_GITHUB }}"
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add github-stats.svg
+          git commit -m "chore: update GitHub stats"
+          git push
