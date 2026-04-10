@@ -1,8 +1,9 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I am Shaukat Ali!
-
-## Developer
-
-I'm a final-year undergraduate at IIT Kharagpur with a focus on generative AI. My background in full-stack development and recent work with the FastAPI stack and DevOps fuel my passion for building innovative AI models and applications.
+### Hey, I'm Shaukat Ali 👋
+ 
+## Full-Stack & Backend Engineer
+ 
+IIT Kharagpur graduate working full-time as a software engineer. I've been building [FullCircle](https://fullcircle.so) from the ground up — took it from zero to production serving 50,000+ monthly active users. My core focus is backend systems, API design, and developer infrastructure, with enough frontend range to ship complete products end-to-end.
+ 
 
 ## 🌱 Learning
 
